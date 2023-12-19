@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "title": "Char-NFTContainerApp",
+    "details": {
+      "description": "Char-NFTContainerApp embodies a pivotal solution to address the critical demand for scalable and secure containerized applications in educational technology.",
+      "subtitle": "The Side Project",
+      "description2": "Char-NFTContainerApp provides a detailed guide, articulating each step clearly. It covers deploying container instances, Virtual Machine setup, and Azure Web App integration. The solution aims at creating a scalable, secure, and efficient infrastructure for educational technology."
+    },
+    "date": "December 2023",
+    "summary": "Personal Project",
+    "tech": [
+      "Cloud : Azure",
+      "Docker containers",
+      "Virtual Machines"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "View on Github",
+        "link": "https://github.com/shubham932000/character"
+      },
+      {
+        "type": "ios",
+        "text": "Youtube",
+        "link": "https://www.youtube.com/watch?v=4ueTRtlVhhA"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "NetMaze-Explorer",
+    "details": {
+      "description": "Linking on-site networks to Azure? It's all about securing that transition for scalability or disaster recovery. Set up a solid hybrid network with tight security to avoid risks and disruptions.",
+      "subtitle": "Implement and manage virtual networking",
+      "description2": "NetMaze Explorer offers a comprehensive solution through a meticulously crafted step-by-step guide. It leverages an array of Azure services, including Virtual Networks, VPN Gateway, Network Security Groups (NSGs), Bastion, Private Link, and more. These components collaboratively form the foundation for secure connectivity, resource deployment, access control, administrative security, private access to Azure PaaS services, custom DNS configurations, and rigorous performance and security testing."
+    },
+    "date": "Nov 2023",
+    "summary":"Personal Project",
+    "tech": [
+      "Azure Virtual Networks",
+      "Azure VPN Gateway",
+      "Network Security Groups (NSGs)",
+      "Azure Virtual Network Manager"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "View on Github",
+        "link": "https://github.com/shubham932000/NetMaze-Explorer"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Media Manager",
+    "details": {
+      "description": "The Django Media Manager app is a robust solution for efficiently handling and organizing media files in web applications built on the Django framework. It simplifies the process of uploading, storing, and managing images, videos, and other media assets. ",
+      "subtitle": "Manage your Media on the go",
+      "description2": "With user-friendly features, it enables seamless integration into Django projects, offering a convenient interface for content management, including functionalities like file uploads, organization, and retrieval. This app enhances the overall development experience by providing a structured and scalable approach to handling media content within Django applications."
+    },
+    "date": "Jan 2022",
+    "summary": "Personal Project",
+    "tech": [
+      "Django Framework",
+      "Full-Stack Developement",
+      "Database"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "View on Github",
+        "link": "https://github.com/shubham932000/MediaManager"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "E-commerce website ",
+    "details": {
+      "description": "A Django-based e-commerce website is a robust online retail platform leveraging the Django framework's capabilities.",
+      "subtitle": "Effortless Online Shopping",
+      "description2": "Welcome to our Django-powered e-commerce website, where seamless shopping meets cutting-edge technology. Explore a user-friendly platform with secure authentication, robust product management, and a hassle-free checkout experience. Your journey to effortless online shopping starts here!"
+    },
+    "date": "Jan 2022",
+    "summary": "Website",
+    "tech": [
+      "Django Framework",
+      "Full-Stack Developement",
+      "Database"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "View on Github",
+        "link": "https://github.com/shubham932000/E_WEB"
+      }
+    ]
+  }
+]
